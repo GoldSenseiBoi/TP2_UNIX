@@ -134,6 +134,9 @@ Ici, le processus kworker utilise à nouveau des ressources CPU, et top est lui-
 
 On peut utiliser Shift + P pour trier par CPU et Shift + M pour trier par utilisation mémoire.
 
+Trouvez les commandes interactives permettant de : passer l’affichage en couleur, mettre en
+avant le colonne de trie, changer la colonne de trie : top puis ?
+
 ### 3. Exercice 2 : Arrêt d'un processus
 
 #### 3.1 Lancer des scripts en arrière-plan
