@@ -114,10 +114,13 @@ Processus utilisant le plus de CPU : Dans cette capture, le processus kworker se
 - **Afficher un arbre des processus** :
   ```bash
   sudo apt install pstree
-  pstree
+  pstree 
   ```
 
-
+- ** tout les processus au demarrage
+   ```bash
+  ps aux | wc -l
+  ```
 
 - **Lancer `htop` pour une interface plus visuelle** :
   ```bash
